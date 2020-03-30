@@ -1,0 +1,23 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.img {
+  background-color: #ddd;
+}
+
+.panel {
+  background-color: #efefef;
+}
+
+.card {
+  background-color: #fff;
+}
+
+.nav {
+  background-color: #ddd;
+}
+
+.push-logo {
+  max-width: 200px;
+}
