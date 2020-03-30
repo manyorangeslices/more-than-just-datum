@@ -12,6 +12,7 @@ html {
 
 .card {
   background-color: #fff;
+  border-radius: 3px;
 }
 
 .nav {
@@ -22,7 +23,12 @@ html {
   max-width: 200px;
 }
 
+.table-wrapper table {
+  min-width: 45em;
+}
+
 @media only screen and (min-width: 76em) {
+
   .table-wrapper {
     overflow: visible;
   }
