@@ -21,3 +21,10 @@ html {
 .push-logo {
   max-width: 200px;
 }
+
+@media only screen and (min-width: 76em) {
+  .table-wrapper {
+    overflow: visible;
+  }
+
+}
